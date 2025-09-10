@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20251407\\2025ai1407\\nemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAAD991-A030-48C5-9A84-FB75C4E1D066}|nemo.vcxproj|D:\\20251407\\2025ai1407\\nemo\\nemo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFAAD991-A030-48C5-9A84-FB75C4E1D066}|nemo.vcxproj|solutionrelative:nemo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nemo1.c",
+              "DocumentMoniker": "D:\\20251407\\2025ai1407\\nemo\\nemo1.c",
+              "RelativeDocumentMoniker": "nemo1.c",
+              "ToolTip": "D:\\20251407\\2025ai1407\\nemo\\nemo1.c*",
+              "RelativeToolTip": "nemo1.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-10T04:51:33.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
