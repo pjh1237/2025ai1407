@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\20251407\uD504\uB85C\uADF8\uB798\uBC0D2\uACFC\uC81C\\\uBA40\uBBF8\uD504\uB85C\uADF8\uB798\uBC0D2\\HW03\\fishgamee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81B3BFA7-3640-411C-958C-8A34CD29E354}|fishgamee.vcxproj|C:\\20251407\uD504\uB85C\uADF8\uB798\uBC0D2\uACFC\uC81C\\\uBA40\uBBF8\uD504\uB85C\uADF8\uB798\uBC0D2\\HW03\\fishgamee\\\uBB3C\uACE0\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81B3BFA7-3640-411C-958C-8A34CD29E354}|fishgamee.vcxproj|solutionrelative:\uBB3C\uACE0\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uBB3C\uACE0\uAE30.c",
+              "DocumentMoniker": "C:\\20251407\uD504\uB85C\uADF8\uB798\uBC0D2\uACFC\uC81C\\\uBA40\uBBF8\uD504\uB85C\uADF8\uB798\uBC0D2\\HW03\\fishgamee\\\uBB3C\uACE0\uAE30.c",
+              "RelativeDocumentMoniker": "\uBB3C\uACE0\uAE30.c",
+              "ToolTip": "C:\\20251407\uD504\uB85C\uADF8\uB798\uBC0D2\uACFC\uC81C\\\uBA40\uBBF8\uD504\uB85C\uADF8\uB798\uBC0D2\\HW03\\fishgamee\\\uBB3C\uACE0\uAE30.c",
+              "RelativeToolTip": "\uBB3C\uACE0\uAE30.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-22T04:18:58.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
